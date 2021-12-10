@@ -1,0 +1,11 @@
+D:\usuarios\alumno\escritorio\C#\practica20del8\bin\Debug\netcoreapp2.2\practica20del8.deps.json
+D:\usuarios\alumno\escritorio\C#\practica20del8\bin\Debug\netcoreapp2.2\practica20del8.runtimeconfig.json
+D:\usuarios\alumno\escritorio\C#\practica20del8\bin\Debug\netcoreapp2.2\practica20del8.runtimeconfig.dev.json
+D:\usuarios\alumno\escritorio\C#\practica20del8\bin\Debug\netcoreapp2.2\practica20del8.dll
+D:\usuarios\alumno\escritorio\C#\practica20del8\bin\Debug\netcoreapp2.2\practica20del8.pdb
+D:\usuarios\alumno\escritorio\C#\practica20del8\obj\Debug\netcoreapp2.2\practica20del8.csprojAssemblyReference.cache
+D:\usuarios\alumno\escritorio\C#\practica20del8\obj\Debug\netcoreapp2.2\practica20del8.csproj.CoreCompileInputs.cache
+D:\usuarios\alumno\escritorio\C#\practica20del8\obj\Debug\netcoreapp2.2\practica20del8.AssemblyInfoInputs.cache
+D:\usuarios\alumno\escritorio\C#\practica20del8\obj\Debug\netcoreapp2.2\practica20del8.AssemblyInfo.cs
+D:\usuarios\alumno\escritorio\C#\practica20del8\obj\Debug\netcoreapp2.2\practica20del8.dll
+D:\usuarios\alumno\escritorio\C#\practica20del8\obj\Debug\netcoreapp2.2\practica20del8.pdb
